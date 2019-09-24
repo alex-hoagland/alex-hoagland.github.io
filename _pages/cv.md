@@ -28,7 +28,15 @@ Publications
 
 Work experience
 ======
-* May 2018--Present: Research Assistant
+* August 2019--present: Research Assistant
+  * Boston University School of Public Health
+  * Supervisor: Jacob Bor
+  
+* May 2019--present: Research Assistant
+  * Boston University Department of Economics
+  * Supervisor: Randall Ellis
+  
+* May 2018--May 2019: Research Assistant
   * Harvard School of Public Health
   * Supervisor: Tim Layton
 
@@ -40,6 +48,7 @@ Work experience
 Teaching
 ======
 * 2019: 
+   * *Instructor*: Statistics for Economists (Undergrad), Boston University
    * Econometrics (Masters), Boston University
 * 2018: 
    * Mathematics for Economics (Masters), Boston University
