@@ -5,7 +5,10 @@ permalink: /dataandcode/
 author_profile: true
 ---
 
-Materials coming soon! 
+### Replication Codes
+Each of these contains a link to a GitHub repository with replication files for the indicated project. 
+
+* [Who Do Innovations Reach? The Impact of Trainings on Mental Health Treatments](https://github.com/alex-hoagland/innovations-mental-health)
 
 {% include base_path %}
 
