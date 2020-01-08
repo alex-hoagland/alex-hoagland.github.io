@@ -1,5 +1,5 @@
 ---
-title: "EC 303: Empirical Economic Analysis (undergrad)"
+title: "EC 303: Empirical Economic Analysis (BA)"
 excerpt: "The materials from my Fall 2019 class of statistics for economists can be found here."
 collection: teaching
 type: "Fall 2019"
