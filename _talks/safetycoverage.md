@@ -22,5 +22,5 @@ Utah Repeal
 
 Paper Coverage
 ------
-* [Marginal Revolation](https://marginalrevolution.com/marginalrevolution/2018/03/vehicle-safety-inspections-dont-increase-safety.html)
+* [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2018/03/vehicle-safety-inspections-dont-increase-safety.html)
 * [BYU Fulton Competition](https://fhssbyu.com/tag/alex-hoagland/)
