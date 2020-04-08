@@ -61,6 +61,9 @@ Teaching
 
 Conference Presentations
 =====
+* 9th Annual Conference of the American Society of Health Economists (ASHEcon), St. Louis, MO (June 2020, virtual)
+* International Conference on Eating Disorders (ICED), Sydney, Australia (June 2020, virtual)
+* Joint BU/Harvard/MIT Health Economics Seminar, Boston University (February 2020)
 * Time Use Across the Life Course Conference, University of Maryland (June 2018)
 
 Fellowships, Grants, & Awards
