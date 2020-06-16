@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an aspiring health economist, currently in the third year of an economics PhD from Boston University. My fields are health economics and applied econometrics. In particular, my current research focuses on innovation diffusion and gaps between research and practices; I'm especially interested in how these gaps affect treatment decisions and outcomes in mental health care.
+Welcome to my website! I am an aspiring health economist, currently in the fourth year of an economics PhD from Boston University. My fields are health economics and industrial organization. My current projects span a variety of issues ranging from chronic illness and mental health management to innovation in health care. In particular, I am currently working on projects studying how consumers form beliefs about their health needs, the impact of behavioral decision-making processes for chronic disease management, and the response of hyper-specialized professionals such as surgeons to disruptive innovations in their field. 
 
 I received Bachelor's degrees in economics and mathematics from Brigham Young University in Provo, Utah, where I was privileged to work with amazing economists and legislators in projects exploring adolescent well-being, vehicle safety inspections, and political philosophy. You can learn more about each of these projects on this website.
 
-I currently live in Arlington, MA, with my wife Kristen, who is also studying at Boston University (pursuing a degree in Chaplaincy). We stay sane by taking frequent camping trips and baking way too many goodies.  
+I currently live in Arlington, MA, with my wife Kristen, who is also studying at Boston University (pursuing a degree in Chaplaincy). We have a young daughter, Gwendowlyn, and are staying sane by taking frequent camping trips and baking way too many goodies.  
 
 What's on this site?
 ======
