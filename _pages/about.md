@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an aspiring health economist, currently in the fourth year of an economics PhD from Boston University. My fields are health economics and industrial organization. [You can download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf)
+Welcome to my website! I am an aspiring health economist, currently in the fourth year of an economics PhD from Boston University. My fields are health economics and industrial organization. [You can download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf).
 
 My current projects span a variety of issues ranging from chronic illness and mental health management to innovation in health care. In particular, I am currently working on projects studying how consumers form beliefs about their health needs, the impact of behavioral decision-making processes for chronic disease management, and the response of hyper-specialized professionals such as surgeons to disruptive innovations in their field. 
 
