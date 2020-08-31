@@ -30,7 +30,7 @@ Work experience
 ======
 * August 2019--present: Research Assistant
   * Boston University School of Public Health
-  * Supervisor: Jacob Bor
+  * Supervisors: Paul Shafer, Jacob Bor
   
 * May 2019--present: Research Assistant
   * Boston University Department of Economics
@@ -39,11 +39,6 @@ Work experience
 * May 2018--May 2019: Research Assistant
   * Harvard School of Public Health
   * Supervisor: Tim Layton
-
-* January 2012--August 2017: Research Assistant
-  * Brigham Young University, Department of Economics
-  * Multiple projects in financial and family economics
-  * Supervisors: Scott Condie, Jocelyn Wikle
   
 Teaching
 ======
@@ -68,9 +63,10 @@ Conference Presentations
 
 Fellowships, Grants, & Awards
 =====
+* BU Institute for Health Systems Innovation and Policy, Student Summer Research Award, May 2020
+* Honorable Mention, Sigma Journal of Political and International Studies, April 2018
 * 1st Place, Mary Lou Fulton Conference, Provo, Utah, March 2017
 * External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
-* Honorable Mention, Sigma Journal of Political and International Studies, April 2018
 
 Referee
 =====
