@@ -30,7 +30,7 @@ Work experience
 ======
 * August 2019--present: Research Assistant
   * Boston University School of Public Health
-  * Supervisors: Paul Shafer, Jacob Bor
+  * Supervisors: Sarah Gordon, Paul Shafer, Jacob Bor
   
 * May 2019--present: Research Assistant
   * Boston University Department of Economics
@@ -67,16 +67,6 @@ Fellowships, Grants, & Awards
 * Honorable Mention, Sigma Journal of Political and International Studies, April 2018
 * 1st Place, Mary Lou Fulton Conference, Provo, Utah, March 2017
 * External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
-
-Referee
-=====
-* 2018: Economic Modelling
-
-Personal
-=====
-* Languages: English (native), Spanish (fluent), Portugese (beginner)
-* Citizenship: United States
-* Programming: STATA, R, Python, SAS, Matlab, LaTeX, ArcGIS
 
 Other Publications
 =====
