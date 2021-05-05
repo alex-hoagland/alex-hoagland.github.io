@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an aspiring health economist, currently in the fourth year of an economics PhD from Boston University. My fields are health economics and industrial organization. [You can download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf).
+Welcome to my website! I am a health economist, in the process of receiving my PhD from Boston University. My fields are health economics and industrial organization. [You can download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf).
 
-My current projects span a variety of issues ranging from chronic illness and mental health management to innovation in health care. In particular, I am currently working on projects studying how consumers form beliefs about their health needs, the impact of behavioral decision-making processes for chronic disease management, and the response of hyper-specialized professionals such as surgeons to disruptive innovations in their field. 
+My research centers around questions of how to improve access to and utilization of high-value health services, such as preventive care, for at-risk individuals and families. My job market paper focuses on how these at-risk households respond to information about their risks and evaluates the welfare associated with such choices. My other ongoing and published projects span a issues ranging from costs associated with preventive care utilization to specific at-risk populations, including innovations in treatments for cardiovascular disease and mental health conditions. My research has been published in top journals, including _JAMA Network Open_. 
 
 I received Bachelor's degrees in economics and mathematics from Brigham Young University in Provo, Utah, where I was privileged to work with amazing economists and legislators in projects exploring adolescent well-being, vehicle safety inspections, and political philosophy. You can learn more about each of these projects on this website.
 
