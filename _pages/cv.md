@@ -37,7 +37,7 @@ Work experience
   * Supervisor: Randall Ellis
   
 * May 2018--May 2019: Research Assistant
-  * Harvard School of Public Health
+  * Harvard Medical School, Department of Health Care Policy
   * Supervisor: Tim Layton
   
 Teaching
