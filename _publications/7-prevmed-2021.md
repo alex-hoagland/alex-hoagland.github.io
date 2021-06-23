@@ -10,7 +10,7 @@ paperurl: 'http://www.sciencedirect.com/science/article/pii/S0091743521002590?dc
 
 (with Paul Shafer) 
 
-![VisualAbstract](alex-hoagland.github.io/images/visualabstract.pdf)
+![VisualAbstract](http://alex-hoagland.github.io/images/visualabstract.pdf)
 
 The Affordable Care Act aimed to reduce or eliminate patient cost-sharing for preventive services. In this paper, we assess the extent to which commercially-insured patients continue to pay out of pocket for preventive care. We find that the aggregate burden associated with these supposedly free services ranges between 75 million and 225 million dollars annually.
  
