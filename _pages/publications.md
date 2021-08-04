@@ -14,7 +14,7 @@ author_profile: true
 
 ## Research in Progress
 
-{% for post in site.working_papers reversed %} 
+{% for post in site.workingpapers reversed %} 
 {% include archive-single.html %}
 {% endfor %}
 
