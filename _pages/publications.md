@@ -15,6 +15,8 @@ author_profile: true
 <!--- Publications --->
 <!--- ------ --->
 
+## Publications
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
