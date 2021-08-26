@@ -16,7 +16,7 @@ Education
 * B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
 * Ph.D in Economics, Boston University, 2022 (expected)
     * Fields: Health Economics, Industrial Organization
-    * Job market paper: [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/workingpapers/jmp-health-risk-information)
+    * Job market paper: [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf)
 
 Publications
 ======
@@ -33,7 +33,7 @@ Working Papers
 * [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/workingpapers/jmp-health-risk-information). _Job market paper_
 * Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment (with Sarah Gordon, Jamie Daw, & Lindsay Admon). _Revision requested at
 Health Affairs_
-* [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_
+* [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_  
 * Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
 * Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 * Boston Universal Diagnostic Cost Groups (BU-DCGs): A Machine Learning Algorithm for Creating Gaming-Resistant Risk-Adjusted Payment Formulas (with Corinne Andriola, Randall P. Ellis, Jeffrey Siracuse, Heather Hsu, Allan Walkey, Karen Lasser, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
