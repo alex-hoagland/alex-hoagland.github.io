@@ -34,7 +34,7 @@ Working Papers
 * Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment (with Sarah Gordon, Jamie Daw, & Lindsay Admon). _Revision requested at
 Health Affairs_
 * [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_
-∗ Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
+* Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
 * Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 * Boston Universal Diagnostic Cost Groups (BU-DCGs): A Machine Learning Algorithm for Creating Gaming-Resistant Risk-Adjusted Payment Formulas (with Corinne Andriola, Randall P. Ellis, Jeffrey Siracuse, Heather Hsu, Allan Walkey, Karen Lasser, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 
@@ -58,7 +58,7 @@ Teaching
    * Health Economics (undergraduate), Boston University
    * Intermediate Microeconomic Theory (undergraduate), Boston University
 * 2019: 
-   * *Instructor*: Statistics for Economists (undergraduate), Boston University
+   * **Instructor**: Statistics for Economists (undergraduate), Boston University
    * Econometrics (Masters), Boston University
 * 2018: 
    * Mathematics for Economics (Masters), Boston University
@@ -72,7 +72,7 @@ Teaching
 Conference Presentations
 =====
 * Annual Health Econometrics Workshop. October 2021, virtual. 
-* * 10th Annual Conference of the American Society of Health Economists (ASHEcon). June 2021, virtual.  
+* 10th Annual Conference of the American Society of Health Economists (ASHEcon). June 2021, virtual.  
 * International Health Economics Association (iHEA) 2021 World Congress. July 2021, virtual.
 * AcademyHealth Annual Research Meeting. June 2021, virtual. 
 * 9th Annual Conference of the American Society of Health Economists (ASHEcon). June 2020, virtual.
