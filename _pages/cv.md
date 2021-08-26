@@ -15,6 +15,8 @@ Education
 ======
 * B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
 * Ph.D in Economics, Boston University, 2022 (expected)
+    * Fields: Health Economics, Industrial Organization
+    * Job market paper: [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/workingpapers/jmp-health-risk-information)
 
 Publications
 ======
@@ -25,6 +27,16 @@ Publications
   <ul>{% for post in site.working_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Working Papers
+=====
+* [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/workingpapers/jmp-health-risk-information). _Job market paper_
+* Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment (with Sarah Gordon, Jamie Daw, & Lindsay Admon). _Revision requested at
+Health Affairs_
+* [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_
+∗ Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
+* Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
+* Boston Universal Diagnostic Cost Groups (BU-DCGs): A Machine Learning Algorithm for Creating Gaming-Resistant Risk-Adjusted Payment Formulas (with Corinne Andriola, Randall P. Ellis, Jeffrey Siracuse, Heather Hsu, Allan Walkey, Karen Lasser, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 
 Work experience
 ======
@@ -42,8 +54,11 @@ Work experience
   
 Teaching
 ======
+* 2021: 
+   * Health Economics (undergraduate), Boston University
+   * Intermediate Microeconomic Theory (undergraduate), Boston University
 * 2019: 
-   * *Instructor*: Statistics for Economists (Undergrad), Boston University
+   * *Instructor*: Statistics for Economists (undergraduate), Boston University
    * Econometrics (Masters), Boston University
 * 2018: 
    * Mathematics for Economics (Masters), Boston University
@@ -52,14 +67,18 @@ Teaching
    * Advanced Microeconomic Theory (PhD), Brigham Young University
    * Topology (Masters), Brigham Young University
 * 2015-2016: 
-   * Intermediate Microeconomic Theory (undergrad), Brigham Young University
+   * Intermediate Microeconomic Theory (undergraduate), Brigham Young University
 
 Conference Presentations
 =====
-* 9th Annual Conference of the American Society of Health Economists (ASHEcon), St. Louis, MO (June 2020, virtual)
-* International Conference on Eating Disorders (ICED), Sydney, Australia (June 2020, virtual)
-* Joint BU/Harvard/MIT Health Economics Seminar, Boston University (February 2020)
-* Time Use Across the Life Course Conference, University of Maryland (June 2018)
+* Annual Health Econometrics Workshop. October 2021, virtual. 
+* * 10th Annual Conference of the American Society of Health Economists (ASHEcon). June 2021, virtual.  
+* International Health Economics Association (iHEA) 2021 World Congress. July 2021, virtual.
+* AcademyHealth Annual Research Meeting. June 2021, virtual. 
+* 9th Annual Conference of the American Society of Health Economists (ASHEcon). June 2020, virtual.
+* International Conference on Eating Disorders (ICED), Sydney, Australia. June 2020, virtual.
+* Joint BU/Harvard/MIT Health Economics Seminar, Boston University. February 2020.
+* Time Use Across the Life Course Conference, University of Maryland. June 2018.
 
 Fellowships, Grants, & Awards
 =====
