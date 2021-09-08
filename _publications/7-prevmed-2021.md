@@ -18,8 +18,7 @@ The Affordable Care Act aimed to reduce or eliminate patient cost-sharing for pr
 
 ### Media Coverage of This Article
 * Read an op-ed style explainer of this research [here](https://www.bu.edu/ihsip/2020/08/17/more-health-care-more-problems-when-going-to-the-doctor-gives-you-headaches/)
-* [U.S. News](https://www.usnews.com/news/health-news/articles/2021-07-22/many-patients-billed-for-preventive-care-that-should-be-free-study)
-* [Newsmax](https://www.newsmax.com/health/health-news/preventive-care-bills-insurance-wellness-visits/2021/07/22/id/1029544/)
-* [Eurek Alert](https://www.eurekalert.org/news-releases/863470)
+* You can also read our most recent piece explaining the link between free preventive care and the COVID-19 pandemic [here](https://theconversation.com/the-next-attack-on-the-affordable-care-act-may-cost-you-free-preventive-health-care-166087). 
+* Our work has been highlighted by multiple news outlets, most recently [U.S. News](https://www.usnews.com/news/health-news/articles/2021-07-22/many-patients-billed-for-preventive-care-that-should-be-free-study), [Newsmax](https://www.newsmax.com/health/health-news/preventive-care-bills-insurance-wellness-visits/2021/07/22/id/1029544/), and [Eurek Alert](https://www.eurekalert.org/news-releases/863470).
 
 Recommended citation: Hoagland, A., & Shafer, P. (2021). Out-of-pocket costs for preventive care persist almost a decade after the Affordable Care Act. Preventive Medicine, 150. 
