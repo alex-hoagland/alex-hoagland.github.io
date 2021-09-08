@@ -11,4 +11,6 @@ Individuals learn about their health risks from witnessing family members' healt
 
 [Read the full paper here!](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf)
 
+You can also access a slide deck describing the paper [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_Slides.pdf)
+
 Recommended citation: Hoagland, A. (2021). An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information. *Working Paper*.
