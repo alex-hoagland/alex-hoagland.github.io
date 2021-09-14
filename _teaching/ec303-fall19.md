@@ -14,7 +14,7 @@ location: "Boston, MA"
 * To see course evaluations from Fall 2019, click [here](http://alex-hoagland.github.io/files/EC303_2019F/EC303_2019F_CourseEvals.pdf). 
 
 ## Lecture Slides
-The slides for this course can be downloaded [here](http://alex-hoagland.github.io/files/EC303_2019F/EC303_LectureNotes.zip). 
+The slides for this course can be downloaded [here](https://github.com/alex-hoagland/alex-hoagland.github.io/blob/master/files/EC303_2019F/EC303_LectureNotes.zip?raw=true). 
 
 ## Problem Sets
 * [Problem Set 1](http://alex-hoagland.github.io/files/EC303_2019F/EC303_PS1_PROBLEMS.pdf) 
