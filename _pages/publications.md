@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Research in Progress
+## Working Papers
 
 {% for post in site.workingpapers reversed %} 
 {% include archive-single.html %}
