@@ -36,7 +36,6 @@ Health Affairs_
 * [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_  
 * Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
 * Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
-* Boston Universal Diagnostic Cost Groups (BU-DCGs): A Machine Learning Algorithm for Creating Gaming-Resistant Risk-Adjusted Payment Formulas (with Corinne Andriola, Randall P. Ellis, Jeffrey Siracuse, Heather Hsu, Allan Walkey, Karen Lasser, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 
 Work experience
 ======
