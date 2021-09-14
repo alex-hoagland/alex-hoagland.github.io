@@ -2,7 +2,6 @@
 title: "Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment"
 collection: workingpapers
 permalink: /workingpapers/medicaid-eligibility-cliff
-excerpt: 'Individuals learn about their health risks from witnessing family health experiences. I assess how the (mis)-interpretation of this risk information limits the potential welfare gains from informational spillovers, using household health shocks as quasi-random risk signals. Adverse health events generate strong, persistent spillover effects within a family, increasing spending by about 10% annually among unaffected household members. I show that these responses are more consistent with households reevaluating their health risks than other potential mechanisms; however, responses include increased utilization of both high- and low-return services. To evaluate welfare effects, I estimate a structural model of health choices in which individuals learn about their health risks as health events reveal information. The model suggests that consumers over-respond to health information by over-weighting their health risks, resulting in welfare losses averaging $2,788. Placing bounds on how consumers update their beliefs in response to risk information improves welfare for 86% of households. My analysis suggests that the revelation of health risk information can be optimally targeted on household demographics to improve social welfare gains.'
 venue: 'Working Paper (revision requested at *Health Affairs*)'
 
 ---
