@@ -13,4 +13,10 @@ Individuals learn about their health risks from witnessing family members' healt
 
 You can also access a slide deck describing the paper [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_Slides.pdf).
 
+Online appendices are contained in separate files, accessible here. Alternatively, if you would like a single PDF containing the full text *and* the appendices, you can access it [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_FullText.pdf). 
+    * [Appendix A: Notes on Data Cleaning](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixA.pdf)
+    * [Appendix B: Additional Reduced-Form Estimation Results](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixB.pdf)
+    * [Appendix C: Notes on the Structural Model](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixC.pdf)
+    * [Appendix D: Additional Structural Estimation Results](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixD.pdf)
+
 Recommended citation: Hoagland, A. (2021). An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information. *Working Paper*.
