@@ -13,7 +13,7 @@ Individuals learn about their health risks from witnessing family members' healt
 
 You can also access a slide deck describing the paper [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_Slides.pdf).
 
-Online appendices are contained in separate files, accessible here. Alternatively, if you would like a single PDF containing the full text *and* the appendices, you can access it [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_FullText.pdf). 
+Online appendices are contained in separate files, accessible here. 
 
    - Appendix A: [Notes on Data Cleaning](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixA.pdf)
    - Appendix B: [Additional Reduced-Form Estimation Results](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixB.pdf)
