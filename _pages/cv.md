@@ -13,10 +13,16 @@ redirect_from:
 
 Education
 ======
-* B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
 * Ph.D in Economics, Boston University, 2022 (expected)
-    * Fields: Health Economics, Industrial Organization
+    * Dissertation Title: *Essays on Information and Innovation in Health Economics*
+    * Dissertation Committee: [Randall P. Ellis](mailto:ellisrp@bu.edu), [Tal Gross](mailto:talgross@bu.edu), [Marc Rysman](mailto:mrysman@bu.edu), [Jihye Jeon](mailto:jjeon@bu.edu)
     * Job market paper: [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf)
+* B.A. in Economics & B.S. in Mathematics, Brigham Young University, 2017
+    * Valedictorian, *Magna Cum Laude*
+
+Fields of Interest
+=====
+Health economics, Applied Industrial Organization, Applied Econometrics
 
 Publications
 ======
@@ -37,19 +43,28 @@ Health Affairs_
 * Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
 * Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
 
+Works in Progress
+=====
+* Leapfrogging and the Market Effects of Hyper-Specialization
+
+Conference Presentations
+=====
+* Annual Health Econometrics Workshop. October 2021, virtual. 
+* 10th Annual Conference of the American Society of Health Economists (ASHEcon). June 2021, virtual.  
+* International Health Economics Association (iHEA) 2021 World Congress. July 2021, virtual.
+* AcademyHealth Annual Research Meeting. June 2021, virtual. 
+* 9th Annual Conference of the American Society of Health Economists (ASHEcon). June 2020, virtual.
+* International Conference on Eating Disorders (ICED), Sydney, Australia. June 2020, virtual.
+* Joint BU/Harvard/MIT Health Economics Seminar, Boston University. February 2020.
+* Time Use Across the Life Course Conference, University of Maryland. June 2018.
+
 Work experience
 ======
-* August 2019--present: Research Assistant
-  * Boston University School of Public Health
-  * Supervisors: Sarah Gordon, Paul Shafer, Jacob Bor
-  
-* May 2019--present: Research Assistant
-  * Boston University Department of Economics
-  * Supervisor: Randall Ellis
-  
-* May 2018--May 2019: Research Assistant
-  * Harvard Medical School, Department of Health Care Policy
-  * Supervisor: Tim Layton
+* Research Assistant for [Randall P. Ellis](https://blogs.bu.edu/ellisrp/home/), Boston University (economics), 2019-present
+* Research Assistant for [Sarah Gordon](https://www.bu.edu/sph/profile/sarah-gordon/), Boston University (public health), 2020-present
+* Research Assistant for [Paul Shafer](https://www.bu.edu/sph/profile/paul-shafer/), Boston University (public health), Summer 2020
+* Research Assistant for [Jacob Bor](https://www.bu.edu/sph/profile/jacob-bor/), Boston University (public health), 2019-2020
+* Research Assistant for [Tim Layton](https://scholar.harvard.edu/timothylayton/home), Harvard University (health care policy), 2018-2019
   
 Teaching
 ======
@@ -68,17 +83,6 @@ Teaching
 * 2015-2016: 
    * Intermediate Microeconomic Theory (undergraduate), Brigham Young University
 
-Conference Presentations
-=====
-* Annual Health Econometrics Workshop. October 2021, virtual. 
-* 10th Annual Conference of the American Society of Health Economists (ASHEcon). June 2021, virtual.  
-* International Health Economics Association (iHEA) 2021 World Congress. July 2021, virtual.
-* AcademyHealth Annual Research Meeting. June 2021, virtual. 
-* 9th Annual Conference of the American Society of Health Economists (ASHEcon). June 2020, virtual.
-* International Conference on Eating Disorders (ICED), Sydney, Australia. June 2020, virtual.
-* Joint BU/Harvard/MIT Health Economics Seminar, Boston University. February 2020.
-* Time Use Across the Life Course Conference, University of Maryland. June 2018.
-
 Fellowships, Grants, & Awards
 =====
 * BU Institute for Health Systems Innovation and Policy, Student Summer Research Award, May 2020
@@ -86,9 +90,11 @@ Fellowships, Grants, & Awards
 * 1st Place, Mary Lou Fulton Conference, Provo, Utah, March 2017
 * External Grant, Office of Creative Research and Activities, Provo, Utah, January 2017
 
-Other Publications
+References
 =====
-* “Drivers of Safety: The Outdated Practice of MOT Testing” (briefing paper). Adam Smith Institute, July 2018.
-* “MOT Testing Distracts From the Real Danger—Drivers” (op-ed). The Times, July 2018.
-* “Who is My Neighbor? Identifying Epistemic Peers among Polarized Communities?” (political philosophy article). Sigma Journal of Political and International Studies, April 2018.
-* [*Flash*](https://www.amazon.com/gp/product/1533070571/ref=dbs_a_def_rwt_bibl_vppi_i0) (young adult novel), 2015.
+* [Randall Ellis](https://www.bu.edu/econ/profile/randall-p-ellis/), Professor (BU Econ). Phone: (617) 353-2741 Email: [ellisp@bu.edu](mailto:ellisrp@bu.edu)
+* [Tal Gross](https://sites.bu.edu/talgross/), Associate Professor (BU Questrom). Phone:  (617) 358-2829 Email: [talgross@bu.edu](mailto:talgross@bu.edu)
+* [Marc Rysman](https://sites.bu.edu/mrysman/), Professor (BU Econ). Phone: (617) 353-3086 Email: [mrysman@bu.edu](mailto:mrysman@bu.edu)
+* [Jihye Jeon](http://www.jihyejeon.com/), Assistant Professor (BU Econ). Phone: (617) 353-3184 Email: [jjeon@bu.edu](mailto:jjeon@bu.edu)
+
+
