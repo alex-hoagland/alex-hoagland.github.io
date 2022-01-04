@@ -2,7 +2,7 @@
 title: "Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment"
 collection: workingpapers
 permalink: /workingpapers/diagnostic-items
-venue: 'Working Paper (prepared for submission to JAMA)'
+venue: 'JAMA Health Forum (conditionally accepted)'
 
 ---
 
