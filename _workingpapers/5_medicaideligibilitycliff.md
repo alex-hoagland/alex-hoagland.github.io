@@ -2,7 +2,7 @@
 title: "Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment"
 collection: workingpapers
 permalink: /workingpapers/medicaid-eligibility-cliff
-venue: 'Working Paper (revision requested at Health Affairs)'
+venue: 'Health Affairs (forthcoming)'
 
 ---
 
