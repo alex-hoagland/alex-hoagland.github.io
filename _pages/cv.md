@@ -37,8 +37,7 @@ Publications
 Working Papers
 =====
 * [An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information](https://alex-hoagland.github.io/workingpapers/jmp-health-risk-information). _Job market paper_
-* Beyond 60 Days: The Effect of Postpartum Medicaid Eligibility on Continuity of Insurance Enrollment (with Sarah Gordon, Jamie Daw, & Lindsay Admon). _Revision requested at
-Health Affairs_
+* Utilization and Costs in Medicaid versus Commercial Insurance in the Postpartum Year (with Sarah Gordon, Jamie Daw, & Lindsay Admon), _JAMA Network Open_ (conditionally accepted)
 * [Who Do Innovations Reach? The Influence of Trainings on Mental Health Treatments](https://alex-hoagland.github.io/workingpapers/innovations-mental-health). _Second year paper_  
 * Incorporating Acuity, Laterality, Timing, and Other Diagnostic Modifiers into Sophisticated Risk Adjustment Formulas (with Randall P. Ellis, Karen Lasser, Heather Hsu, Corinne Andriola, Tzu-Chun Kuo, Jeffrey Siracuse, Allan Walkey, & Arlene Ash). _Working paper_
 * Diagnostic Items: A New Framework for Disease Surveillance, Prediction, and Risk Adjustment (with Randall P. Ellis, Jeffrey Siracuse, Allan Walkey, Karen Lasser, Brian Jacobson, Corinne Andriola, Ying Liu, Chenlu Song, Tzu-Chun Kuo, & Arlene Ash). _Working paper_
