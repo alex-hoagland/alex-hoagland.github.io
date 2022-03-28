@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/diagnostic-items
 venue: 'JAMA Health Forum'
 date: 2022-03-25
+excerpt: 'How can diagnostic information in ICD-10-CM be organized to improve the accuracy and usefulness of predictive models used for plan payment and disease surveillance? In this study, we create new diagnostic items using ICD-10-CM codes that achieved a validated R2 almost 1.5 times that of Affordable Care Act Marketplace risk-adjustment model, with meaningful improvements for other outcomes. Rich multidimensional diagnostic classification systems can improve predictive models for performance benchmarking and risk adjustment.'
 paperurl: 'https://jamanetwork.com/journals/jama-health-forum/fullarticle/2790542'
 ---
 
