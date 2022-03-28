@@ -14,7 +14,6 @@ Ellis RP, Hsu HE, Siracuse JJ, et al. Development and Assessment of a New Framew
 
 Joint work with Randall P. Ellis, Heather E. Hsu, Jeffrey J. Siracuse, Allan J. Walkey, Karen E. Lasser, Brian C. Jacobson, Corinne Andriola, Ying Liu, Chenlu Song,  Tzu-Chun Kuo, and Arlene S. Ash. 
 
-# Abstract
 ## Key Points
 ### Question
 How can diagnostic information in the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) be organized to improve the accuracy and usefulness of predictive models used for plan payment and disease surveillance?
