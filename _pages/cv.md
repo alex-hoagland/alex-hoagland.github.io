@@ -9,6 +9,7 @@ redirect_from:
 
 [Download my CV here](http://alex-hoagland.github.io/files/HoaglandCV_current.pdf)
 
+<!---
 {% include base_path %}
 
 Education
@@ -95,5 +96,5 @@ References
 * [Tal Gross](https://sites.bu.edu/talgross/), Associate Professor (BU Questrom). Phone:  (617) 358-2829 Email: [talgross@bu.edu](mailto:talgross@bu.edu)
 * [Marc Rysman](https://sites.bu.edu/mrysman/), Professor (BU Econ). Phone: (617) 353-3086 Email: [mrysman@bu.edu](mailto:mrysman@bu.edu)
 * [Jihye Jeon](http://www.jihyejeon.com/), Assistant Professor (BU Econ). Phone: (617) 353-3184 Email: [jjeon@bu.edu](mailto:jjeon@bu.edu)
-
+-->
 
