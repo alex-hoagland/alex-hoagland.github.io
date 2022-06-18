@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alex Hoagland"
 title_separator          : "-"
 name                     : &name "Alex Hoagland"
-description              : &description "Economics PhD student at Boston University"
+description              : &description "Assistant Professor of Health Economics, University of Toronto IHPME" 
 url                      : https://alex-hoagland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alex-hoagland/alex-hoagland.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Alex Hoagland"
   avatar           : "Headshot_202105.jpg"
-  bio              : "I am a health economist and PhD candidate in the department of Economics at Boston University. In the fall, I will be an Assistant Professor at the University of Toronto's IHPME. My research focuses on the role of information in health care, including how consumers learn about their health risks and how providers value innovations in health care."
+  bio              : "I am an Assistant Professor of Health Economics at the University of Toronto's IHPME. My research focuses on the role of information in health care, including how consumers learn about their health risks and how providers value innovations in health care."
   location         :
   employer         : "Boston University, Boston, MA"
   googlescholar    : "https://scholar.google.com/citations?user=Ks-_ZlIAAAAJ&hl=en"
