@@ -8,7 +8,7 @@ excerpt: 'How can diagnostic information in ICD-10-CM be organized to improve th
 paperurl: 'https://jamanetwork.com/journals/jama-health-forum/fullarticle/2790542'
 ---
 
-[Read the full paper here!](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2790542)
+[Read the full paper here!](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2790542) You can also access the DXI software (in SAS) at this link: http://tinyurl.com/DXI-Software. 
 
 ## Recommended citation: 
 Ellis RP, Hsu HE, Siracuse JJ, et al. Development and Assessment of a New Framework for Disease Surveillance, Prediction, and Risk Adjustment: The Diagnostic Items Classification System. JAMA Health Forum. 2022;3(3):e220276. doi:10.1001/jamahealthforum.2022.0276
