@@ -1,8 +1,8 @@
 ---
-title: "Whats in a Bill"
+title: "Whats in a Bill? A Model of Imperfect Moral Hazard in Health Care"
 collection: workingpapers
 permalink: /workingpapers/imperfect-moral-hazard
-excerpt: 'Models of consumer responsiveness to medical care prices are central in the optimal design of health insurance. However, consumers are rarely given spending information at the time they consume care, a delay which many models do not account for and may create distortions in the choice of future care consumption. We study household responses to scheduled medical services before and after pricing information arrives, leveraging quasi-experimental variation in the time it takes for an insurer to process a bill. Immediately after scheduled services, households increase their spending by roughly 46%; however, a bill's arrival causes households to reduce their spending by 7 percentage points (nearly 20% of the initial increase). These corrections are concentrated among households who are under-informed about their deductible or whose expenditures fall just short of meeting the deductible, suggesting that a bill provides useful pricing information. These corrections occur across many types of health services, including high- and low-value care. We model household beliefs and learning about expenditures and find that households overestimate their expenditures by 10% prior to a bill's arrival. This leads to an over-consumption of \$842.80 (\$480.59) for the average (median) affected household member. There is evidence that households learn from repeated use of medical services; however, household priors are estimated to be as high as 80% larger than true prices, leaving low-spending households especially under-informed. Our results suggest that long deductible periods coupled with price non-transparency may lead to an over-consumption of medical care.'
+excerpt: 'Models'
 venue: 'Working Paper'
 paperurl: 'http://alex-hoagland.github.io/files/ImperfectMoralHazard_Draft_20221020.pdf'
 ---
