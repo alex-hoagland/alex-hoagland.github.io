@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-## Working Papers
-
 {% for post in site.workingpapers reversed %} 
 {% include archive-single.html %}
 {% endfor %}
