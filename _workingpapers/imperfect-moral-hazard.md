@@ -1,8 +1,8 @@
 ---
-title: "What's in a Bill? A Model of Imperfect Moral Hazard in Health Care"
+title: "Medical Bill Shock and Imperfect Moral Hazard"
 collection: workingpapers
 permalink: /workingpapers/imperfect-moral-hazard
-excerpt: 'Consumer sensitivity to medical prices is a central problem in health insurance design. However, delays in when consumers receive price information may create distortions in consumption decisions. We study how a scheduled medical service generates  spillover household spending before and after a medical bill arrives, leveraging variation in the time an insurer takes to process a claim. Immediately after services, non-diagnosed household spending increases by 60%; however, a bill's arrival causes a spending reduction of 8.5%, nearly 15% of the increase. These reductions are a result of price uncertainty, rather than other information frictions. Bills also affect not only strategic delays in care, but also where consumers seek care even for non-delayable services. We model how households form beliefs about marginal prices when information is delayed. Households overestimate their expenditures by 10% before bills arrive, leading to over-consumption. Policy simulations show that novel plan designs---such as shortening deductible periods---may reduce over-consumption.'
+excerpt: 'Delays in when consumers receive price information may create distortions in consumption decisions. We study how a scheduled medical service generates  spillover household spending before and after a medical bill arrives, leveraging variation in the time an insurer takes to process a claim. Immediately after services, non-diagnosed household spending increases by 60%; however, a bill's arrival causes a spending reduction of 8.5%, nearly 15% of the increase. We embed these results into a model where households form beliefs about marginal prices when information is delayed.'
 venue: 'Working Paper'
 paperurl: 'http://alex-hoagland.github.io/files/ImperfectMoralHazard.pdf'
 ---
