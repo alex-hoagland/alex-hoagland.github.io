@@ -2,7 +2,7 @@
 title: "Medical Bill Shock and Imperfect Moral Hazard"
 collection: workingpapers
 permalink: /workingpapers/imperfect-moral-hazard
-excerpt: 'Delays in when consumers receive price information may create distortions in consumption decisions. We study how a scheduled medical service generates  spillover household spending before and after a medical bill arrives, leveraging variation in the time an insurer takes to process a claim. Immediately after services, non-diagnosed household spending increases by 60%; however, a bill's arrival causes a spending reduction of 8.5%, nearly 15% of the increase. We embed these results into a model where households form beliefs about marginal prices when information is delayed.'
+excerpt: ''
 venue: 'Working Paper'
 paperurl: 'http://alex-hoagland.github.io/files/ImperfectMoralHazard.pdf'
 ---
