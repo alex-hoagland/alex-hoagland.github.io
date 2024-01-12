@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/managed-competition
 excerpt: 'Managed competition frameworks aim to control healthcare costs and promote access to high-quality health insurance and services through a combination of public policies and market forces. We examine the relative effectiveness of three existing programmes in the U.S. that each rely upon some principles of managed competition: health insurance exchanges instituted by the Affordable Care Act, Medicaid managed care organisations, and Medicare Advantage plans.'
 venue: 'Health Economics, Policy, and Law'
+date: 2024-01-08
 paperurl: 'https://www.cambridge.org/core/journals/health-economics-policy-and-law/article/managed-competition-in-the-united-states-how-well-is-it-promoting-equity-and-efficiency/D3E73ADE6BA48EC9B7AB4C7915FE5667'
 ---
 
