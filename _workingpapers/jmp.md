@@ -2,16 +2,16 @@
 title: "An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information"
 collection: workingpapers
 permalink: /workingpapers/jmp-health-risk-information
-excerpt: 'Individuals learn about their health risks from witnessing family health experiences. I assess how the (mis)-interpretation of this risk information limits the potential welfare gains from informational spillovers, using household health shocks as quasi-random risk signals. Adverse health events generate strong, persistent spillover effects within a family, increasing spending by about 10% annually among unaffected household members. I show that these responses are more consistent with households reevaluating their health risks than other potential mechanisms; however, responses include increased utilization of both high- and low-return services. To evaluate welfare effects, I estimate a structural model of health choices in which individuals learn about their health risks as health events reveal information. The model suggests that consumers over-respond to health information by over-weighting their health risks, resulting in welfare losses averaging $2,788. Placing bounds on how consumers update their beliefs in response to risk information improves welfare for 86% of households. My analysis suggests that the revelation of health risk information can be optimally targeted on household demographics to improve social welfare gains.'
-venue: 'Working Paper (job market paper)'
+excerpt: 'Individuals infer their health risk from experiences of people around them, particularly family. I assess how household health events affect this learning. When someone is diagnosed with a chronic condition, their family members increase healthcare spending by 10%. Informational spillovers lead to higher utilization of both high- and low-return
+care; responses align with individuals reassessing health risks given new information. To evaluate welfare implications, I estimate a structural decision-making model where individuals learn about risk from family. Results reveal consumers over-respond to diagnoses, over-weighting their risks ex-post and crowding out potential welfare gains from information for almost half of individuals.'
+venue: 'Working Paper'
 paperurl: 'https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf'
 ---
 
-Individuals learn about their health risks from witnessing family members' health experiences. I assess how the (mis)-interpretation of this risk information limits the potential welfare gains from informational spillovers, using household health shocks as quasi-random risk signals. Adverse health events generate strong, persistent spillover effects within a family, increasing spending by about 10\% annually among unaffected household members. I show that these responses are more consistent with households reevaluating their health risks than other potential mechanisms; however, responses include increased utilization of both high- and low-return services. To evaluate welfare effects, I estimate a structural model of health choices in which individuals learn about their health risks as health events reveal information. The model suggests that consumers over-respond to health information by over-weighting their health risks, resulting in welfare losses averaging $2,788. Placing bounds on how consumers update their beliefs in response to risk information improves welfare for 86% of households. My analysis suggests that the revelation of health risk information can be optimally targeted on household demographics to improve social welfare gains.'
+Individuals infer their health risk from experiences of people around them, particularly family. I assess how household health events affect this learning. When someone is diagnosed with a chronic condition, their family members increase healthcare spending by 10%. Informational spillovers lead to higher utilization of both high- and low-return care; responses align with individuals reassessing health risks given new information. To evaluate welfare implications, I estimate a structural decision-making model where individuals learn about risk from family. Results reveal consumers over-respond to
+diagnoses, over-weighting their risks ex-post and crowding out potential welfare gains from information for almost half of individuals.
 
 [Read the full paper here!](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf)
-
-You can also access a slide deck describing the paper [here](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_Slides.pdf).
 
 Online appendices are contained in separate files, accessible here. 
 
@@ -20,4 +20,4 @@ Online appendices are contained in separate files, accessible here.
    - Appendix C: [Notes on the Structural Model](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixC.pdf)
    - Appendix D: [Additional Structural Estimation Results](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo_AppendixD.pdf)
 
-Recommended citation: Hoagland, A. (2023). An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information. *Working Paper*.
+Recommended citation: Hoagland, A. (2024). An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information. *Working Paper*.
