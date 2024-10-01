@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Published Research"
-permalink: /publications/
+title: "Economics Research"
+permalink: /econ-publications/
 author_profile: true
 
 ---
