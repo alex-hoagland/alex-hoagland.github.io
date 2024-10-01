@@ -18,5 +18,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Works in Progress
 Drafts/slides available upon request
-* "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort" (joint with Itzik Fadlon, Tal Gross, \& Timothy Layton)
-* "Impact of False Positive Tests on Medical Trust and Preventive Care Utilization: Evidence from Newborn Screenings" (joint with Emily Lawler \& Tamar Oostrom)
+* "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort" (joint with Itzik Fadlon, Tal Gross, & Timothy Layton)
+* "Impact of False Positive Tests on Medical Trust and Preventive Care Utilization: Evidence from Newborn Screenings" (joint with Emily Lawler & Tamar Oostrom)
