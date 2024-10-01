@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Economics Publications"
+    url: /econ-publications/
     
-  - title: "Working Papers"
-    url: /working-papers/
+  - title: "Public Health Publications"
+    url: /pubhealth-publications/
     
   - title: "Teaching"
     url: /teaching/  
