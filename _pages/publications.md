@@ -13,8 +13,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * ["It's No Accident: Evaluating the Effectiveness of Vehicle Safety Inspections"](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12284) (with Trevor Woolley). *Contemporary Economic Policy*, 2018. 
 
 ## Working Papers
+* ["An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information"](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf). Revise and Resubmit, *Review of Economics and Statistics*.
 * ["Innovations and Inequities in Access to Medical Services"](https://alex-hoagland.github.io/files/Hoagland_InnovationsInequities_TAVR.pdf), *Under Review*.
-* ["An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information"](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf), *Under Review*.
 
 ## Works in Progress
 Drafts/slides available upon request
