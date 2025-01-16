@@ -4,7 +4,7 @@ collection: workingpapers
 permalink: /workingpapers/jmp-health-risk-information
 excerpt: 'Individuals infer their health risk from experiences of people around them, particularly family. I assess how household health events affect this learning. When someone is diagnosed with a chronic condition, their family members increase healthcare spending by 10%. Informational spillovers lead to higher utilization of both high- and low-return
 care; responses align with individuals reassessing health risks given new information. To evaluate welfare implications, I estimate a structural decision-making model where individuals learn about risk from family. Results reveal consumers over-respond to diagnoses, over-weighting their risks ex-post and crowding out potential welfare gains from information for almost half of individuals.'
-venue: 'Working Paper'
+venue: 'Revise and Resubmit, Review of Economics and Statistics'
 paperurl: 'https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf'
 ---
 
