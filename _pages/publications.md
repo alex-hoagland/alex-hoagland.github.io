@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 * ["An Ounce of Prevention or a Pound of Cure? The Value of Health Risk Information"](https://alex-hoagland.github.io/files/Hoagland_BU_JMPHealthInfo.pdf). Revise and Resubmit, *Review of Economics and Statistics*.
-* ["Prescribing Power and Equitable Access to Care: Evidence from Pharmacists in Ontario, Canada"](https://alex-hoagland.github.io/files/OntarioPharmacistPrescribing_20250311.pdf) (with Guan Wang). Revise and Resubmit, *Journal of Health Economics*.
+* ["Prescribing Power and Equitable Access to Care: Evidence from Pharmacists in Ontario, Canada"](https://alex-hoagland.github.io/files/OntarioPharmacistPrescribing_20250515.pdf) (with Guan Wang). Revise and Resubmit, *Journal of Health Economics*.
 * ["Innovations and Inequities in Access to Medical Services"](https://alex-hoagland.github.io/files/Hoagland_InnovationsInequities_TAVR.pdf), *Under Review*.
 
 ## Works in Progress
