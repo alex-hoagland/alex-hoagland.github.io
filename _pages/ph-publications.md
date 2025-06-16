@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ## Publications
+* [Claim Denials: Low-Income Patients From Disadvantaged Racial And Ethnic Groups Experienced The Largest Burdens](https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01277?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) (with Michal Horný & Olivia Yu). *Health Affairs*, 2025. 
 * [Lung Cancer Screening and USPSTF Recommendations](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830087) (with Michael Darden). *JAMA Network Open*, 2025. 
 * ["Social Determinants of Health and Insurance Claim Denials for Preventive Care"](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823677) (with Olivia Yu & Michal Horný). *JAMA Network Open*, 2024. 
 * ["Inequities in Unexpected Cost-Sharing for Preventive Care in the United States"](https://www.sciencedirect.com/science/article/pii/S074937972400312X) (with Olivia Yu & Michal Horný). *American Journal of Preventive Medicine*, 2024. 
