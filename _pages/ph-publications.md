@@ -7,6 +7,11 @@ author_profile: true
 ---
 
 ## Publications
+* Ancillary Services to Screening Mammography and Colonoscopy Burdened by Patient Cost-Sharing (with Michal Horný, Natasha Bollegala, Nina Capiro, Jeff Mosko & Craig Wilsen). *Journal of General Internal Medicine*, 2026.
+* [The Impact of Chronic Conditions on Out-of-Pocket Costs for Preventive Care among US Patients](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843536) (with Allan Tran, Audrey Laporte, & Eric Nauenberg). *JAMA Network Open*, 2026.
+* What kinds of pharmacies provide non-dispensing health services? Evidence from Ontario (with Paul Grottendorst, Olexiy Pukhov, & Zubin Austin). *Canadian Pharmacists Journal*, 2026.
+* The economics of community pharmacy in Canada. Part 1: Overview and empirical analysis of community pharmacy strategies in Ontario. (with Paul Grootendorst & Olexiy Pukhov). *Canadian Pharmacists Journal*, 2026.
+* The economics of community pharmacy in Canada. Part 2: A synthesis of the evidence on competitive strategies. (with Paul Grootendorst & Olexiy Pukhov). *Canadian Pharmacists Journal*, 2026.
 * [Claim Denials: Low-Income Patients From Disadvantaged Racial And Ethnic Groups Experienced The Largest Burdens](https://www.healthaffairs.org/doi/10.1377/hlthaff.2024.01277?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) (with Michal Horný & Olivia Yu). *Health Affairs*, 2025. 
 * [Lung Cancer Screening and USPSTF Recommendations](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830087) (with Michael Darden). *JAMA Network Open*, 2025. 
 * ["Social Determinants of Health and Insurance Claim Denials for Preventive Care"](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823677) (with Olivia Yu & Michal Horný). *JAMA Network Open*, 2024. 
