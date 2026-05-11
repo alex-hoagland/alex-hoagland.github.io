@@ -15,9 +15,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * ["It's No Accident: Evaluating the Effectiveness of Vehicle Safety Inspections"](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12284) (with Trevor Woolley). *Contemporary Economic Policy*, 2018. 
 
 ## Working Papers
-* ["Innovations and Inequities in Access to Medical Services"](https://alex-hoagland.github.io/files/Hoagland_InnovationsInequities_TAVR.pdf), *Under Review*.
+* ["Innovations and Inequities in Access to Medical Services"](https://alex-hoagland.github.io/files/Hoagland_InnovationsInequities_TAVR.pdf), Revise and Resubmit, *Journal of Public Economics*.
+* "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort" (joint with Itzik Fadlon, Tal Gross, & Timothy Layton)
+* "Learning Something from Nothing? How False Positive Screening Shapes Household Healthcare Utilization" (joint with Emily Lawler & Tamar Oostrom)
 
 ## Works in Progress
 Drafts/slides available upon request
-* "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort" (joint with Itzik Fadlon, Tal Gross, & Timothy Layton)
-* "Impact of False Positive Tests on Medical Trust and Preventive Care Utilization: Evidence from Newborn Screenings" (joint with Emily Lawler & Tamar Oostrom)
+* "Endogenous Screening and Health Behaviors" (with Michael Darden)
+* "Child Maltreatment Investigations and Household Well-being" (with Maripier Isabelle, Chris Mills, and Boriana Miloucheva)
+
+
