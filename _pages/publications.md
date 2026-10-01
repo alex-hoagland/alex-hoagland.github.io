@@ -16,12 +16,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 * ["Innovations and Inequities in Access to Medical Services"](https://alex-hoagland.github.io/files/Hoagland_InnovationsInequities_TAVR.pdf), Revise and Resubmit, *Journal of Public Economics*.
-* "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort" (joint with Itzik Fadlon, Tal Gross, & Timothy Layton)
+* ["The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort"](https://www.nber.org/papers/w35784) (joint with Itzik Fadlon, Tal Gross, & Timothy Layton)
+* "Endogenous Screening and Health Behaviors" (with Michael Darden)
 * "Learning Something from Nothing? How False Positive Screening Shapes Household Healthcare Utilization" (joint with Emily Lawler & Tamar Oostrom)
 
 ## Works in Progress
 Drafts/slides available upon request
-* "Endogenous Screening and Health Behaviors" (with Michael Darden)
 * "Child Maltreatment Investigations and Household Well-being" (with Maripier Isabelle, Chris Mills, and Boriana Miloucheva)
-
+* "The Impacts of Mental Health Drug Use and Discontinuation in the Perinatal Period: Short and Long-term Outcomes for Mothers and Children" (with Claire Boone, Emily Lawler, \& Boriana Miloucheva)
+* "Association Between Documented Dementia Diagnosis and Caregiver Mental Health Among Medicare Enrollees" (with Malaz Boustani, Jennifer Carnahan, Christopher Dunphy, Tal Gross, Timothy Layton, Richard Meraz, \& Kosali Simon).
+* "Primary Care Physicians and Patient Health: Evidence from Electronic Health Records" (with Itzik Fadlon).
 
